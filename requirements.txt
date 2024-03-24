@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+pydub
+faiss-cpu
+langchain_google_genai
+langchain-community
+gtts
+SpeechRecognition
